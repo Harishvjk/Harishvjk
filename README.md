@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm [Harish Vijayakumar]
+# Hey there, I'm Harish Vijayakumar
 
 ### Full Stack Developer | Final Year Student | Building Digital Experiences
 
